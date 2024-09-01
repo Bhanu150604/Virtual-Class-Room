@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>materials</title>
+</head>
+<body bgcolor="black">
+<center>
+<table cellspacing="20" >
+<center><h1><font color="red">5th Class Materials</font></h1></center>
+<tr>
+<td><img src="D:\web d application\english5.jpg" height=200 width=200></td>
+
+
+<td><img src="D:\web d applications\physics.jpg" height=200 width=200></td>
+</tr>
+<tr>
+<td><img src="D:\web d applications\telugu5.jpg height=200> width=200></td>
+<td><img src="D:\web d applications\science.jpg" width=200 height=200></td>
+
+<td><img src="D:\web d applications\maths1.jpg" height=200 width=200></td>
+</tr>
+
+</table>
+</center>
+</body>
+</html>
